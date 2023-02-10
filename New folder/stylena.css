@@ -1,0 +1,172 @@
+body{
+    background:linear-gradient(#edba6f, #a2dfc0);
+}
+.azwa{
+    width:1200px;
+    display:block;
+    margin:30px auto;
+
+}
+    
+.header{
+    display:block;
+    text-align:center;
+    margin-top: -120px;
+    font-size: 80px;
+    color:#765A2A;
+    font-weight: bolder;
+    font-family: 'Metal Mania', cursive;
+    text-shadow: 3px -3px #d0ae33;
+}
+p{
+    color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:36px;
+font-family:'Mate SC';
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:1000px;
+margin:1px auto;
+}
+.all{
+    display: flex;
+    justify-content:space-around;
+    margin-top:80px;
+}
+.bn{
+    width:210px;
+    height: 200px;
+    border-radius: 50%;
+}    
+.lt{
+    width:210px;
+    height: 200px;
+    border-radius: 50%;
+}    
+.m{
+    width:210px;
+    height: 200px;
+    border-radius: 50%;
+}    
+.bnf{
+    font-family: 'mate sc';
+    font-size:30px;
+}
+.lnl{
+    font-family: 'mate sc';
+    font-size:30px;
+    margin-left:40px;
+}
+.am
+{
+    font-family: 'mate sc';
+    font-size:30px;
+    margin-right:20px;   
+}
+.bnfp{
+    color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:15px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:200px;
+margin-top:-20px;
+}
+.ltp{
+    color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:15px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:200px;
+margin-top:-20px;
+}
+.mp{
+    color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:15px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:200px;
+margin-top:-20px;
+margin-left: px;
+}
+
+
+#mid:hover ,#bnfid:hover,#ltid:hover{
+    transform: scale(1.2); 
+    transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.p2,.p3,#lp{
+    color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Mali;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:1133px;
+margin-top:40px;
+font-weight: 800;
+margin-bottom:40px;
+}
+.img2{
+    width: 80%;
+    height: 592px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.id{
+    margin:30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+    padding:0px;
+    width:600px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    background:#478eeb;
+    border-radius:20px;
+    border-bottom:10px solid #87c3ff;
+    border-right:10px solid #87c3ff;
+}
+#p4{
+    font-family:mali;
+    font-size:21px;
+    width:400px;
+    font-weight: 300;
+}
+#idpic{
+    width:130px;
+    height: 130px;
+    border-radius: 50%;
+   position: relative;
+   top:-70px;
+   left:-20px;
+
+
+}
+#idtitle{
+    font-family:'Mate SC';
+    text-align:center;
+}
+#idname{
+    font-family:'Mate SC';
+    text-align:center;
+
+}
